@@ -1,0 +1,4 @@
+HelloDjango/
+static/
+myvenv/
+db.sqlite3
